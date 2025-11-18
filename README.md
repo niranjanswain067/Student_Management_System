@@ -45,7 +45,6 @@ Run StudentGUI.java.
 
 
 👨‍💻 Author
-
 Developed by Niranjan
 <br>
 Java Swing + JDBC Student Management System (Beginner–Friendly)
