@@ -21,6 +21,8 @@ Remove a student from the database.
 
 Display all student records in a JTable.
 
+<br>
+
 🛠️ Technologies Used
 
 Programming Language:	Java (Core Java)
