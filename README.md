@@ -4,6 +4,7 @@ A simple desktop application built using Core Java, Swing, and JDBC to manage st
 This project allows users to insert, update, delete, and view all student details stored in a MySQL database.
 
 📌 Features
+<br>
 ✅ Insert Student
 
 Add new student details into the database.
